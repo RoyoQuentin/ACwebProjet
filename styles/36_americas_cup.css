@@ -2,7 +2,7 @@
 
 body   /* Style à appliquer sur l'ensemble du document */
 {
-  background-color: #72B6E2 ;  /* Couleur de fond : bleu */
+  background-color: #ff0000 ;  /* Couleur de fond : rouge */
   margin-right: 2%;           /* Gestion des marges latérales */
   margin-left: 2%;
   font-family: Helvetica, Arial, sans-serif;
